@@ -106,8 +106,8 @@ all post css start here
 
 .gallery{
 	width: 100%;
-	float: left;
-	padding: 75px;
+	margin: auto;
+	padding: 75px 0px;
 }
 
 .left{
@@ -225,22 +225,21 @@ footer part css start here
 }
 
 .last{
-	width: 100%;
-	float: left;
-	margin: 0px 70px;
-	height: 100px;
+    width: 1000px;
+    margin: auto;
+    padding: 75px 0;
 }
 
 .text{
 	width: 50%;
 	float: left;
-	margin-top: 30px;
+	
 }
 
 .icon{
 	width: 50%;
 	float: right;
-	margin-top: 30px;
+	
 	text-align: right;
 
 }
